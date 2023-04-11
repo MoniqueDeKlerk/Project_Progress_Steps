@@ -1,2 +1,7 @@
 # Project_Progress_Steps
-Udemy Exercise Two Project that makes uses of JavaScript
+Udemy Exercise 
+
+Project Two:
+
+Progress Steps 
+Makes use of JavaScript 
